@@ -31,7 +31,7 @@ Implementation:
 
 - Copy the modules_front_page_new_specials.json into ClicShopping/Work/Cache/Github (manual installation)
 
-- Marketplace link : https://www.clicshopping.org/forum/files/file/58-modules-front-page-specials-products/
+- Marketplace link : https://www.clicshopping.org/forum/files/file/49-modules-front-page-specials-products/
 
 ![image](https://github.com/ClicShoppingOfficialModulesV3/modules_front_page_new_specials/blob/master/ModuleInfosJson/image.png)
 
